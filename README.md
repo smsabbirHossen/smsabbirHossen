@@ -1,7 +1,7 @@
 
 ![Github Banner](assets/cover.jpg)
 <h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
-Hi, I'm a professional front-end web developerfrom <img src="assets/bangladesh.png" width="18"/> Bangladesh . As for programming languages, I'm skilled at HTML, CSS, JS, React, Bootstrap, and Tailwind CSS.Each website I make will be responsive, load fast and user-friendly interface
+Hi, I'm a professional front-end web developer from Bangladesh . As for programming languages, I'm skilled at HTML, CSS, JS, React, Bootstrap, and Tailwind CSS.Each website I make will be responsive, load fast and user-friendly interface
 :coffee: &emsp;Connect with me!<br/>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sabbir.hossan.3762) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/learnwithsumit) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-hossain-a52758266/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/learnwithsumit) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sumit_analyzen) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsabbir925@gmail.com)
@@ -14,11 +14,6 @@ Hi, I'm a professional front-end web developerfrom <img src="assets/bangladesh.p
 - 👨‍💻 All of my projects are available at [https://sabbirhossain-portfolio.netlify.app/](https://sabbirhossain-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JS,REACT**
-
-- 📫 How to reach me **smsabbir925@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
 :hearts: &emsp;I enjoy learning programming and completed frontend project. <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 
