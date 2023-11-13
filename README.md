@@ -1,7 +1,9 @@
 
 ![Github Banner](assets/cover.jpg)
 <h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
-Hi, I'm a professional front-end web developer from Bangladesh . As for programming languages, I'm skilled at HTML, CSS, JS, React, Bootstrap, and Tailwind CSS.Each website I make will be responsive, load fast and user-friendly interface.
+Hi, I'm a professional front-end web developer from Bangladesh . As for programming languages, I'm skilled at HTML, CSS, JS, React, Bootstrap, and Tailwind CSS.Each website I make will be responsive, load fast and user-friendly interface.<br/>
+<br/>
+<br/>
 
 
 :coffee: &emsp;Connect with me!
