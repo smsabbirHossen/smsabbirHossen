@@ -14,11 +14,14 @@ Hi, I'm a professional front-end web developer from Bangladesh . As for programm
 - 👨‍💻 All of my projects are available at [https://sabbirhossain-portfolio.netlify.app/](https://sabbirhossain-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JS,REACT**
-:hearts: &emsp;I enjoy learning programming and completed frontend project. <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+  
+- :hearts: &emsp;I enjoy learning programming and completed frontend project. 
 
-:e-mail: &emsp;How to reach me: smsabbir925@gmail.com.<br/>
-⚡ &emsp;Fun fact: I am funny.
+- :computer: &emsp;Most used line of code `console.log("hello world")` 
+
+- :e-mail: &emsp;How to reach me: smsabbir925@gmail.com.
+  
+- ⚡ &emsp;Fun fact: I am funny.
 
 
 #### Things I code with
